@@ -1,5 +1,6 @@
 # Biometric_Person_Identification
 Developed a person identification model based on iris database using machine learning tools
+
 Main points:
 
 •	Detect human iris on a photos using Python libraries OpenCV, SciPy, and Scikit-Image.
